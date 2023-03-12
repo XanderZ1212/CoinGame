@@ -1,1 +1,2 @@
 # CoinGame
+Every Coin Ever
